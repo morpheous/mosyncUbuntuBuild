@@ -1,0 +1,3 @@
+In abscence of a messaging system on Git, I will place my comments in this file:
+
+The build script does not build. It merely echoes to screen, the selected branch choice. Need to find a way to actually clone the selected branch (and necessary dependencies) to build on Ubuntu
